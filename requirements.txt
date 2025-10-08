@@ -1,0 +1,12 @@
+# Highly active, trustworthy packages
+requests==2.31.0
+pandas==2.2.2
+numpy==1.26.4
+
+# Medium trust packages (older or slower to update)
+beautifulsoup4==4.9.3
+matplotlib==3.3.0
+
+# Low-activity or outdated libraries (for contrast)
+html5lib==1.0.1
+PySimpleGUI==4.30.0
